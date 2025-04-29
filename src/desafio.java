@@ -4,7 +4,7 @@ public class desafio {
     public static void main(String[] args) {
         String name = "Amaro Netto";
         String tipoConta = "Corrente";
-        double saldo = 1599.99;
+        double saldo = 3020.99;
 
         int opcao= 0;
 
